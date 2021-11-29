@@ -5,4 +5,6 @@ pkg_maintainer="Collin McNeese <cmcneese@chef.io>"
 pkg_license=("Apache-2.0")
 pkg_description="Effortless Audit Example for Linux"
 pkg_scaffolding="chef/scaffolding-chef-inspec"
+# pkg_scaffolding="chef/scaffolding-chef-inspec/0.24.0/20211119164421"
+# scaffold_inspec_client="chef/chef-infra-client"
 scaffold_profiles=(profile1 profile2)
